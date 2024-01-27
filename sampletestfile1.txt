@@ -4,3 +4,4 @@ git mearge test is being conducted
 
 THis is the comparision in file 1
 
+This is step one to test git stash.

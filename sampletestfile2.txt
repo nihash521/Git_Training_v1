@@ -2,3 +2,5 @@ This is a sample fille 2
 
 GIT rever commit 1.
 THis is the comparision in file 2
+
+This is second file for stash test.
